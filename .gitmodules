@@ -1,0 +1,6 @@
+[submodule "submodules/s1"]
+	path = submodules/s1
+	url = https://gitee.com/lowkey2046/test.test.git
+[submodule "submodules/s2"]
+	path = submodules/s2
+	url = https://gitee.com/lowkey2046/gb2312.git
